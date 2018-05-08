@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="StochReg">
+</Property><Property Name="Файл решения" Value="C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\StochReg.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\StochReg.suo">
+</Property><Property Name="Date" Value="20 ноября 2010 г.">
+</Property><Property Name="Time" Value="13:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="StochReg.sln" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg.sln">
+</Event><Event ErrorLevel="0" Project="" Source="StochReg.suo" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg.suo">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\StochReg.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\StochReg.csproj">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\EmulForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\EmulForm.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\EmulForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\EmulForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\MainForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\MainForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\RangeForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\RangeForm.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\RangeForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\RangeForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\RepForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\RepForm.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\RepForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\RepForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\SheetForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\SheetForm.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\SheetForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\SheetForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\StageForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\StageForm.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\StageForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\StageForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\Program.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\TechForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\TechForm.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\TechForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\TechForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\app.config" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\app.config">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\EmulForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\EmulForm.resx">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\MainForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\RangeForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\RangeForm.resx">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\RepForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\RepForm.resx">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\SheetForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\SheetForm.resx">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\StageForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\StageForm.resx">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\TechForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\StochReg\Backup\StochReg\TechForm.resx">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\StochReg.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="StochReg" Source="StochReg\StochReg.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="StochReg.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="StochReg.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="StochReg" Source="StochReg\StochReg.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
